@@ -65,3 +65,57 @@ top: 200px;}
     position: relative;
     top: 200px;
 }
+
+.nom2{
+    text-align: center;
+}
+
+.titre2{text-align: center}
+
+.photo2 {
+    display: flex;
+    flex-direction: row;
+align-items: left;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    top: -100px;
+   
+
+}
+  
+.nom2 {
+    text-align: center;
+    position: relative;
+    right: -15px;
+}
+
+.liste2{text-align: center;
+position: relative;
+top: 270px;}
+
+.liste2 li{display: inline;
+    list-style: none;
+    margin: 0 2%;
+
+}
+
+.exp1{position: relative;
+top: -200px;}
+
+.mar1{margin: 0 2%;}
+
+.mar2 {margin: 0 2%;}
+
+.mar3 {margin: 0 2%;}
+
+
+
+
+
+
+    
+   
+
+
+
